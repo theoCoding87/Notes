@@ -1,3 +1,5 @@
+Ubuntu live does not start Firefox Instance
+"""""""""""""""""""""""""""""""""""""""""""
 Live mode breaks apparmor
 How it effects the usage:
 User is not allowed to start Firefox on Ubuntu Live with persistent Storage.
@@ -15,3 +17,9 @@ ConditionPathExists=
 
 (ignore failure-messages)
 Save and Reboot.
+
+
+
+Windows Start-Script-Path:
+""""""""""""""""""""""""""
+C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\script.bat
