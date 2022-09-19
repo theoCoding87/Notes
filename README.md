@@ -23,3 +23,6 @@ Save and Reboot.
 Windows Start-Script-Path:
 """"""""""""""""""""""""""
 C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\script.bat
+
+
+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
