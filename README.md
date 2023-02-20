@@ -31,4 +31,4 @@ Mount:
 ~$ ifuse <mountingpoint>
 
 Unmount:
-~$ fisermount -u <mountingpoint>
+~$ fusermount -u <mountingpoint>
