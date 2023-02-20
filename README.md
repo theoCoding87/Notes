@@ -27,7 +27,7 @@ iFuse
 Dateizugriff auf iPhone, von Linux
 
 Mount:
-idevice pair
+idevicepair pair
 ifuse <mountingpoint>
 
 Unmount:
