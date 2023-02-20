@@ -30,5 +30,5 @@ Mount:
 ~$ idevicepair pair
 ~$ ifuse <mountingpoint>
 
-Unmount:
+Unmount: 
 ~$ fusermount -u <mountingpoint>
