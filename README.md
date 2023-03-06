@@ -26,7 +26,7 @@ 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
 iFuse
 Dateizugriff auf iPhone, von Linux
 
-Mount:
+Mount
 ~$ idevicepair pair
 ~$ ifuse <mountingpoint>
 
