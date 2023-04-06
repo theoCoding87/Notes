@@ -36,3 +36,5 @@ Unmount:
   
   youtube-dl
 pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl --force-reinstall
+
+Wallpaper Background Color #15908E
