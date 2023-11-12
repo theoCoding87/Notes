@@ -38,3 +38,11 @@ Unmount:
 pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl --force-reinstall
 
 Wallpaper Background Color #15908E
+
+Docker Engine on new Mint installation
+""""""""""""""""""""""""""""""""""""""
+console apt-get update says:
+E: The repository 'https://download.docker.com/linux/ubuntu vanessa Release' does not have a Release file.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+-> solution: change "vanessa" to "jammy" in file /etc/apt/sources.list.d/docker.list
