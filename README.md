@@ -1,3 +1,7 @@
+Docker MongoDB 
+sudo docker start <containername>
+sudo docker exe -it <containername> 
+
 Ubuntu live does not start Firefox Instance
   Live mode breaks apparmor
   How it effects the usage:
