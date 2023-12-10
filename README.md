@@ -1,6 +1,6 @@
 Docker MongoDB 
 sudo docker start <containername>
-sudo docker exe -it <containername> 
+sudo docker exe -it <containername> bash
 
 Ubuntu live does not start Firefox Instance
   Live mode breaks apparmor
