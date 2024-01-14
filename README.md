@@ -1,3 +1,10 @@
+lampp yt mvc
+when ready: do it in a docker container and make the index.php available in browser, while having php only installed in docker container.
+
+then go to laradock.
+
+------------------------------
+
 Docker MongoDB 
 sudo docker start <containername>
 sudo docker exe -it <containername> bash
